@@ -14,6 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love gaming and coding
 -->
+<h1 align="center">Hi there, I'm Allan 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif" />
+</p>
+
+<p align="center">
+  <em>A backend developer in training with ALX ProDev, passionate about building beautiful and functional full-stack applications.</em>
+</p>
+
+---
+
+### 🚀 About Me
+
+👋 Hello! I’m a self-driven software engineer currently learning through the **ALX ProDev Backend Web Development Program**.
+
+🔍 I focus on:
+
+- 🔧 Full-stack web development (Django + React)
+- 🛠️ Efficient database design
+- 🎯 Building clean and catchy websites with modern tools
+
+🎯 **Why Software Engineering?**
+
+I started my journey to solve real-world problems and to contribute to digital innovation across Africa. I'm inspired by the potential of tech to empower communities and create meaningful change.
+
+---
+
+### 🧠 Tech Stack
+
+```html
+Languages: Python, JavaScript, HTML5, CSS3  
+Frameworks: Django, Django REST Framework, React (learning)  
+Tools: Git & GitHub, PostgreSQL, SQLite, VS Code, Postman
 
 ### Languages and Tools
 
