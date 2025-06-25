@@ -46,12 +46,11 @@ I started my journey to solve real-world problems and to contribute to digital i
 
 ### 🧠 Tech Stack
 
-
-Languages: Python, JavaScript, HTML5, CSS3  
+  
 Frameworks: Django, Django REST Framework, React (learning)  
 Tools: Git & GitHub, PostgreSQL, SQLite, VS Code, Postman
 
-### Languages and Tools
+### Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" alt="Django"/>
