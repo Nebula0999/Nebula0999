@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Nebula0999/Nebula0999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,9 +42,11 @@ I started my journey to solve real-world problems and to contribute to digital i
 
 ---
 
+
+
 ### 🧠 Tech Stack
 
-```html
+
 Languages: Python, JavaScript, HTML5, CSS3  
 Frameworks: Django, Django REST Framework, React (learning)  
 Tools: Git & GitHub, PostgreSQL, SQLite, VS Code, Postman
