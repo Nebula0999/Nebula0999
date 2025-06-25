@@ -57,4 +57,12 @@ Tools: Git & GitHub, PostgreSQL, SQLite, VS Code, Postman
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
+
+| Project                   | Description                                                                                 | Tech                  |
+| ------------------------- | ------------------------------------------------------------------------------------------- | --------------------- |
+| **🏠 Airbnb Clone**       | A simplified version of Airbnb with user registration, listings, and booking functionality. | Django, HTML, CSS     |
+| **✅ Task Manager App**    | An intuitive app to organize tasks by project, status, and deadline.                        | Django, JS, Bootstrap |
+| **🛒 E-commerce Website** | A responsive and secure site for selling products with cart and checkout flow.              | Django, Stripe, HTML  |
+| **✍️ Blog Platform**      | A modern blog site with markdown support, comment system, and user profiles.                | Django, SQLite, HTML  |
+
           
