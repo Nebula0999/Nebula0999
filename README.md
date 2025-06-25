@@ -43,6 +43,8 @@ I started my journey to solve real-world problems and to contribute to digital i
 ---
 
 
+![ChatGPT Image Jun 25, 2025, 01_23_25 PM](https://github.com/user-attachments/assets/ed27bcd1-d040-42ed-b8f8-ef27503f586a)
+
 
 ### 🧠 Tech Stack
 
